@@ -1,5 +1,5 @@
 # ArdCal
-Arduino-based Google calendar reminder.
+Arduino-based Google calendar reminder. Written in 2016.
 
 Sets of a flashing alert on a Neopixel shortly before a calendar event.
 
